@@ -29,6 +29,10 @@ a:hover {
     margin: 1rem 0 1rem 0;
 }
 
+.social p {
+    text-decoration: underline;   
+}
+
 nav {
     margin: 1rem 0 1rem 0;
 }
