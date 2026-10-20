@@ -26,31 +26,11 @@ a:hover {
 }
 
 .social {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    margin: 1rem 0;
-    flex-wrap: wrap;
+    margin: 1rem 0 1rem 0;
 }
 
 .social p {
-    text-decoration: underline;
-    margin: 0;
-}
-
-.social a {
-    display: inline-flex;
-    align-items: center;
-    transition: opacity 0.2s ease;
-}
-
-.social a:hover {
-    opacity: 0.7;
-}
-
-.social img {
-    display: block;
-    object-fit: contain;
+    text-decoration: underline;   
 }
 
 nav {
